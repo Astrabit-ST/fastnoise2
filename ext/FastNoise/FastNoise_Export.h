@@ -1,0 +1,4 @@
+#ifndef FASTNOISE_EXPORT_H
+#define FASTNOISE_EXPORT_H
+
+#endif
